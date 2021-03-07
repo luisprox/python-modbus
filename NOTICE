@@ -1,0 +1,13 @@
+The following components are used in this application:
+
+Python
+https://www.python.org/
+Dual Licensed under the PSF License Agreement and the Zero-Clause BSD license.
+
+modbus-tk
+https://github.com/ljean/modbus-tk
+Distributed under GNU LGPL license
+
+timeloop
+https://github.com/sankalpjonn/timeloop
+MIT license

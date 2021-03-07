@@ -1,0 +1,7 @@
+autopep8
+pylint
+pytest
+pytest-cov
+pytest-benchmark
+bandit
+tinyaes
